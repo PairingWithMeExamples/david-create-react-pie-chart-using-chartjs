@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Comedy",
+    "count": 29,
+    "color": "red"
+  },
+  {
+    "name": "Action",
+    "count": 20,
+    "color": "blue"
+  },
+  {
+    "name": "Romance",
+    "count": 16,
+    "color": "green"
+  },
+  {
+    "name": "Drama",
+    "count": 14,
+    "color": "yellow"
+  },
+  {
+    "name": "Horror",
+    "count": 11,
+    "color": "orange"
+  },
+  {
+    "name": "Science Fiction",
+    "count": 10,
+    "color": "gray"
+  }
+]
